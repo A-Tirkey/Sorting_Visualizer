@@ -1,3 +1,5 @@
+// Merge Sort
+
 async function merge(ele,low,mid,high){
     const n1=mid-low+1;
     const n2=high-mid;

@@ -1,3 +1,5 @@
+// Selection Sort
+
 async function selection(){
 const ele=document.querySelectorAll('.sort');
 for(let i=0; i<ele.length; i++)

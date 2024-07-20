@@ -1,3 +1,5 @@
+// Quick Sort
+
 async function lomuto(ele,l,h){
     let i=l-1;
     

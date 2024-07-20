@@ -1,3 +1,5 @@
+// Bubble sort
+
 async function bubble(){
 
 const ele=document.querySelectorAll(".sort");

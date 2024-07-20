@@ -1,8 +1,4 @@
-// let bars=[]; 
-// for(let i=0; i<100; i++)
-// {
-//     bars.push(Math.floor(Math.random()*400)+1);
-// }
+
 
 let arrsizer=document.querySelector('#sizer');
 arrsizer.addEventListener('input', function(){

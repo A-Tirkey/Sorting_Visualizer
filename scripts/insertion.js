@@ -1,3 +1,5 @@
+// Insertion Sort
+
 async function insertion(){
     const ele=document.querySelectorAll('.sort');
 
