@@ -1,49 +1,40 @@
-# Site Link
-https://aaryan-sorting-visualizer.netlify.app/
-
 # Sorting-Visualizer
 
 https://user-images.githubusercontent.com/101854972/159030038-f67f9166-d27e-4056-9dd1-398864803fcb.mp4
 
 
 # Features Added
-✅ Control Visualization Speed
+1) Control Visualization Speed
 
-✅ Change array size
+2) Change array size
 
-✅ Randomize Input
+3) Randomize Input
 
-✅ Choose various algorithms
+4) Choose various algorithms
 
 # Features to Add
-🔧 Make Interface More Mobile Friendlly
+1) Make Interface More Mobile Friendlly
 
-🔧 Visualization with sound
+2) Visualization with sound
 
-🔧 ToolTip at Size Slider
+3) ToolTip at Size Slider
 
 # Algorithms Visualized
-✅ Bubble Sort
+1)  Bubble Sort
 
-✅ Insertion Sort
+2) Insertion Sort
 
-✅ Selection Sort
+3) Selection Sort
 
-✅ QuickSort (Lomuto Partition)
+4) QuickSort (Lomuto Partition)
 
-✅ Merge Sort
+5) Merge Sort
 
-# Algorithms to Add
-
-🔧 QuickSort (Hoarse Partition)
-
-🔧 Shell Sort
-
-🔧 Radix Sort
 
 # Technologies Used
-✅ HTML
+ 
+1) HTML
 
-✅ CSS
+2) CSS
 
-✅ Vanilla JavaScript
+3) Vanilla JavaScript
